@@ -1,0 +1,10 @@
+.Form {
+	width: 300px;
+	border: 1px solid blue;
+	border-radius: 5px;
+	padding: 10px;
+	margin: 10px;
+}
+.button {
+	float: right;
+}
